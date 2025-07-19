@@ -29,7 +29,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,postman,nodejs,express,react,mongodb&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-WITH-AMIT&show_icons=true&theme=dark)
+![Amit kumar singh GitHub stats](https://github-readme-stats.vercel.app/api?username=CODE-WITH-AMIT&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE-WITH-AMIT&theme=dark)
 
